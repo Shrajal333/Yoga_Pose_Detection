@@ -8,3 +8,8 @@ This repository contains an implementation of a deep learning approach for recog
 - **Performance**: Achieved a test recognition accuracy of 91.15% on the in-house Yoga pose dataset and 99.39% on a publicly available dataset, with significant improvements in execution speed over existing techniques.
 - **Availability**: The in-house created Yoga pose dataset will be made publicly available for further research and development.
 
+### Neural Network Architecture:
+![image](https://github.com/user-attachments/assets/d198fb4c-c292-4270-b7fa-7af4ada72d60)
+
+### Model Accuracy:
+![image](https://github.com/user-attachments/assets/1deed9fd-7187-4625-b8a7-a58b18e99ad4)
